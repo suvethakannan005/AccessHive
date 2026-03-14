@@ -1,0 +1,7 @@
+{
+  "name": "AccessHive",
+  "description": "Advanced campus security system featuring QR scanning, face recognition, and AI-based security management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,12 @@
+type,id,name,department,designation,phone,qr_code,face_image,bus_number,vehicle_number
+staff,STAFF001,Dr. Meenakshi,EEE,Professor,9988776655,STAFF_QR_1,https://picsum.photos/seed/staff1/200/200,,
+staff,STAFF002,Mr. Rajesh,MECH,Assistant Professor,9988776644,STAFF_QR_2,https://picsum.photos/seed/staff2/200/200,,
+staff,STAFF003,Mrs. Priya,CSE,Associate Professor,9988776633,STAFF_QR_3,https://picsum.photos/seed/staff3/200/200,,
+staff,STAFF004,Dr. Anand,IT,HOD,9988776622,STAFF_QR_4,https://picsum.photos/seed/staff4/200/200,,
+staff,STAFF005,Ms. Kavitha,ECE,Lecturer,9988776611,STAFF_QR_5,https://picsum.photos/seed/staff5/200/200,,
+driver,DRV001,Muthu,,,9123456789,DRIVER_QR_1,https://picsum.photos/seed/drv1/200/200,Bus 5,TN-05-BUS-0005
+driver,DRV002,Selvam,,,9123456788,DRIVER_QR_2,https://picsum.photos/seed/drv2/200/200,Bus 12,TN-05-BUS-0012
+driver,DRV003,Kumar,,,9123456787,DRIVER_QR_3,https://picsum.photos/seed/drv3/200/200,Bus 2,TN-05-BUS-0002
+driver,DRV004,Anand,,,9123456786,DRIVER_QR_4,https://picsum.photos/seed/drv4/200/200,Bus 8,TN-05-BUS-0008
+driver,DRV005,Ravi,,,9123456785,DRIVER_QR_5,https://picsum.photos/seed/drv5/200/200,Bus 15,TN-05-BUS-0015
+driver,DRV006,Gopal,,,9123456784,DRIVER_QR_6,https://picsum.photos/seed/drv6/200/200,Bus 20,TN-05-BUS-0020
